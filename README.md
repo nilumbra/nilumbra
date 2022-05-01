@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!-- ![nilumbra's GitHub stats](https://github-readme-stats.vercel.app/api?username=nilumbra&count_private=true&show_icons=true&theme=vue) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilumbra)](https://github.com/nilumbra/github-readme-stats)
