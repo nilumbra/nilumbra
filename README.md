@@ -3,12 +3,13 @@
 <!-- ![nilumbra's GitHub stats](https://github-readme-stats.vercel.app/api?username=nilumbra&count_private=true&show_icons=true&theme=vue) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilumbra)](https://github.com/nilumbra/github-readme-stats)
 
-[![nilumbra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nilumbra)](https://github.com/nilumbra/github-readme-stats)
+[![nilumbra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nilumbra&langs_count=7&custom_title=Coding%20Activities%20in%20Last%20Week)](https://github.com/nilumbra/github-readme-stats)
 
 <!-- [![nilumbra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nilumbra)](https://github.com/nilumbra/github-readme-stats) -->
 <!--
 **nilumbra/nilumbra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+langs_count
+custom_title
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
