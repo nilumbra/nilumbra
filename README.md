@@ -8,8 +8,6 @@
 <!-- [![nilumbra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nilumbra)](https://github.com/nilumbra/github-readme-stats) -->
 <!--
 **nilumbra/nilumbra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-langs_count
-custom_title
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
