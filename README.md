@@ -1,8 +1,13 @@
-<!-- ### Hi there 👋 -->
-Open, inquisitive and stoic. 
-<!-- ![nilumbra's GitHub stats](https://github-readme-stats.vercel.app/api?username=nilumbra&count_private=true&show_icons=true&theme=vue) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilumbra)](https://github.com/nilumbra/github-readme-stats)
-
+## Hi there 👋
+![nilumbra's GitHub stats](https://github-readme-stats.vercel.app/api?username=nilumbra&count_private=true&show_icons=true&theme=vue&hide=stars)
+### Introduction
+- 🤔 Three words to describe me: open, inquisitive and stoic
+- 🔭 I’m currently working on [QCampusmate](https://github.com/QCampusmate-Dev-Team)
+- 🌱 I'm currently learning [OS](https://github.com/nilumbra/ostep-projects) and [compiler theory](https://web.stanford.edu/class/cs143/)
+### Language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilumbra&layout=compact)](https://github.com/nilumbra/github-readme-stats)
+<!-- [![nilumbra's GitHub stats](https://github-readme-stats.vercel.app/api?username=nilumbra)](https://github.com/anuraghazra/github-readme-stats) -->
+### Activity
 [![nilumbra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nilumbra&langs_count=7&custom_title=Coding%20Activities%20in%20Last%20Week)](https://github.com/nilumbra/github-readme-stats)
 
 <!-- [![nilumbra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nilumbra)](https://github.com/nilumbra/github-readme-stats) -->
