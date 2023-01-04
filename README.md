@@ -1,9 +1,9 @@
 ## Hi there 👋
 ![nilumbra's GitHub stats](https://github-readme-stats.vercel.app/api?username=nilumbra&count_private=true&show_icons=true&theme=vue&hide=stars)
 ### Introduction
-- 🤔 Three words to describe me: open, inquisitive and stoic
 - 🔭 I’m currently working on [QCampusmate](https://github.com/QCampusmate-Dev-Team)
 - 🌱 I'm currently learning [OS](https://github.com/nilumbra/ostep-projects) and [compiler theory](https://web.stanford.edu/class/cs143/)
+- 🤔 Three words to describe me: open, inquisitive and stoic
 ### Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilumbra&layout=compact)](https://github.com/nilumbra/github-readme-stats)
 <!-- [![nilumbra's GitHub stats](https://github-readme-stats.vercel.app/api?username=nilumbra)](https://github.com/anuraghazra/github-readme-stats) -->
