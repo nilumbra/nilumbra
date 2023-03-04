@@ -2,7 +2,7 @@
 ![nilumbra's GitHub stats](https://github-readme-stats.vercel.app/api?username=nilumbra&count_private=true&show_icons=true&theme=vue&hide=stars)
 ### Introduction
 - 🔭 I’m currently working on [QCampusmate](https://github.com/QCampusmate-Dev-Team)
-- 🌱 I'm currently learning [OS](https://github.com/nilumbra/ostep-projects) and [Database System Design]([https://web.stanford.edu/class/cs143/](https://cs186berkeley.net/fa20/)). Leave me a message if you are interested in co-learning!
+- 🌱 I'm currently learning [OS](https://github.com/nilumbra/ostep-projects) and [Database System Design(UCB CS186)](https://cs186berkeley.net/fa20/). Leave me a message if you are interested in co-learning!
 - 🤔 Three words to describe me: open, inquisitive and stoic
 ### Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilumbra&layout=compact)](https://github.com/nilumbra/github-readme-stats)
@@ -11,6 +11,8 @@
 [![nilumbra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nilumbra&langs_count=7&custom_title=Coding%20Activities%20in%20Last%20Week)](https://github.com/nilumbra/github-readme-stats)
 
 <!-- [![nilumbra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nilumbra)](https://github.com/nilumbra/github-readme-stats) -->
+
+<!-- CS143 Compiler[https://web.stanford.edu/class/cs143/] -->
 <!--
 **nilumbra/nilumbra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
